@@ -1,0 +1,16 @@
+{
+  "short_name": "Brother Hunt",
+  "name": "Elder Brother's Hunt",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "1000x1036"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "apple-mobile-web-app-status-bar-style": "white"
+}
